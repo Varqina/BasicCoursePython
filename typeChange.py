@@ -5,3 +5,4 @@ i22Value=22
 
 
 print(sStringValue+sStringValue,i11Value,"+",i22Value,"=",i11Value+i22Value)
+print(sTestValue+str(i22Value))
