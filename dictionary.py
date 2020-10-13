@@ -21,3 +21,5 @@ roomstoto[11]="Element"
 print(roomstoto)
 
 print(rooms.get(22))
+rooms.update({400:"jas"})
+print(rooms)
