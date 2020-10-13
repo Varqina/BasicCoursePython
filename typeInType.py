@@ -21,3 +21,8 @@ print(personList[1])
 print(tuplelist[0][3])
 tuplelist.append((2, 2, 2, "Karol"))
 print(tuplelist)
+
+for value1, value2 in personList:
+    print(value1)
+    print(value2)
+    print(str(value1)+str(value2))
