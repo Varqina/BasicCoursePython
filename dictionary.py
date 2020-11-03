@@ -11,7 +11,9 @@ roomstoto = {"two":"test", "key":"lock"}
 print(room)
 print(rooms)
 print(roomstoto)
-
+print(room)
+room[33] = "test"
+print(room)
 rooms[22] = "RAdi"
 print(rooms)
 
